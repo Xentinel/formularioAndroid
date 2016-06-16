@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="nombreFor">Ingresa tu nombre completo</string>
+    <string name="telefonoFor">Telefono</string>
+    <string name="EmailFor">Email</string>
+    <string name="contactoFor">Descripción contacto</string>
+    <string name="fechaFor">Fecha de nacimiento</string>
+    <string name="textoBotonFor">Siguiente >></string>
+    <string name="nombre">Nombre</string>
+    <string name="verificaDatos">Verifica que tus datos sean correctos</string>
+    <string name="btnAtras">Regresar</string>
+</resources>
